@@ -1,0 +1,1 @@
+this is a new folder's first file cd1.txt
